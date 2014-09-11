@@ -1,4 +1,8 @@
 valami
+<<<<<<< HEAD
 
 ide irok valamit
 
+=======
+ez egy teszt
+>>>>>>> origin/master
