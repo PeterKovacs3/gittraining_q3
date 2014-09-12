@@ -3,6 +3,7 @@ valami
 
 ide irok valamit
 iasdasdasdasd
+dsadsadasdas
 =======
 ez egy teszt
 >>>>>>> origin/master
