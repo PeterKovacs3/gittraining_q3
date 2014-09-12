@@ -2,7 +2,7 @@ valami
 <<<<<<< HEAD
 
 ide irok valamit
-
+iasdasdasdasd
 =======
 ez egy teszt
 >>>>>>> origin/master
